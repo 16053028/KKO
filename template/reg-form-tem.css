@@ -1,0 +1,73 @@
+header {
+	background-color : #191970;
+	border : solid;
+	width : 400px;
+	font-size : 25px;
+	text-align : center;
+	font-weight : bold;
+}
+
+.footer{
+	background-color : #191970;
+	width : 400px;
+	margin-top : -16px;
+	border : solid;
+	border-top : none;
+}
+
+input[type=text] {
+    width: 200px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: white;
+    color: black;
+	font-weight : bold;
+}
+
+input[type=text], select {
+    width: 200px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: white;
+    color: black;
+	font-weight : bold;
+}
+
+input[type=submit] {
+    width: 100px;
+    background-color: #00bfff;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	font-weight : bold;
+}
+
+form{
+	background-color : #99e7ff;
+	width : 400px;
+	height : 350px;
+	overflow-x: hidden; /* Hide horizontal scrollbar */
+    overflow-y: scroll; /* Add vertical scrollbar */
+	border : solid;
+	border-bottom : none;
+	border-top : none;
+}
+
+p{
+	font-size : 25px;
+	text-align : center;
+	font-weight : bold;
+	color : white;
+}
+
+label{
+	color: #000000;
+	font-weight:bold;
+}

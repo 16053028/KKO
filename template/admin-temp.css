@@ -1,0 +1,68 @@
+body{
+	  margin:0px;
+	  padding:0px;
+	   background-color:#4682b4;
+	  }
+	  
+	  .kurung{
+	  width:99.98%;
+	  height:60px;
+	  border:1px solid;
+	  font-size: 20;
+	  font-size: 50;
+	  line-height:50px;
+      background-color:#191970;
+	  color:#fff;
+	  border-color:black;
+	  }
+	  .bio{
+	  border:1px solid;
+	  width:50.40%;
+	  height:500px;
+	  
+	  }
+	  .data_foto{
+	  width:151.20px;
+	  height:227px;
+	  background-color:#fff;
+	  }
+	  .kotak{
+	  border:1px solid;
+	  width:49.50%;
+	  height:500px;
+	  margin-right:-691px;
+	  margin-top:-502px;
+	  background-color:#fff;
+	  }
+	  table{
+	  width:50%;
+	  height:25px;
+	  background-color:#fff;
+	  }
+	  .data_bio{
+	  margin-left:151.20px;
+	   margin-top:-324px;
+	    width:78%;
+	  height:500px;
+	  background-color:#fff;
+	  }
+	  .btn_edit{
+	  	    width:100px;
+			margin-left:25px;
+	  }
+	   .btn_tambah{
+	  	    width:100px;
+			margin-left:25px;
+	  }
+	  .btn_out{
+	  	    width:100px;
+			margin-left:25px;
+		}
+		.footer{
+		width:99.98%;
+		 height:90px;
+		 border:1px solid;
+		 background-color:#191970;
+	    
+		}
+	 
